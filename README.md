@@ -31,14 +31,8 @@ task-app/
 ├── app.js # Main server file
 └── README.md # Project documentation
 
-## 📦 Task Object Structure
 
-```json
-{
-  "id": "unique-task-id",
-  "title": "Sample Task Title",
-  "description": "Details about the task"
-}
+
 🧑‍💻 How to Use
 1. Clone the repository
 
@@ -67,4 +61,18 @@ Made with 🧠 by [Lakhan Pal]
 i deploy on the render.com the link is https://note-file-renamer-app.onrender.com/
 
 Would you like sample routes (`create`, `read`, `edit`) or sample JSON to go with this too?
+
+
+## 📦 Task Object Structure
+
+
+```json
+{
+  "id": "unique-task-id",
+  "title": "Sample Task Title",
+  "description": "Details about the task"
+}
+
+
+
 
