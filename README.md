@@ -4,10 +4,10 @@ This is a simple **Task Manager** built using **Node.js**, **Express.js**, and t
 
 ## 🚀 Features
 
-- ✅ Create Task (with Title and Description)
-- 📖 Read Task (View  tasks)
-- ✏️ Edit Task (Update file name)
-- 💾 Uses a local `.json` file for storing task data
+- ✅ Create Task (with Title and Description)      ![Create Task](https://github.com/lakhanpal70/-Note-File-Renamer-App/blob/ea8fdfe7dbdac36d899dbb78f1c8e34d662198d7/note%20file%20App.jpg)
+- 📖 Read Task (View  tasks)                        ![Read Task](https://github.com/lakhanpal70/-Note-File-Renamer-App/blob/ea8fdfe7dbdac36d899dbb78f1c8e34d662198d7/readmore%20.jpg)
+- ✏️ Edit Task (Update file name)                   ![Edit Task](https://github.com/lakhanpal70/-Note-File-Renamer-App/blob/ea8fdfe7dbdac36d899dbb78f1c8e34d662198d7/edit%20file%20name%20.jpg)
+- 💾 Uses a local `.json` file for storing task data    ![Files storage](https://github.com/lakhanpal70/-Note-File-Renamer-App/blob/ea8fdfe7dbdac36d899dbb78f1c8e34d662198d7/data%20storage%20.jpg)
 
 ## 🛠 Tech Stack
 
